@@ -19,7 +19,7 @@ React.js, commonly known as React, is an open-source JavaScript library develope
 React has gained widespread adoption in the web development community due to its simplicity, efficiency, and the ability to build interactive user interfaces with ease. It is often used in conjunction with other technologies, such as Redux for state management, to create scalable and maintainable applications.
 
 
-How does it work?
+## How does it work?
 
 React works by allowing developers to build user interfaces using a component-based architecture. Here's a high-level overview of how React works:
 
