@@ -131,3 +131,26 @@ S
 6. **JavaScript and React Knowledge:** If you are familiar with JavaScript and React, the learning curve for React Native is relatively smooth.
 
 While React Native provides many advantages, it may not be the best choice for every project. In some cases, native development might be preferred for performance-critical applications or when specific platform features need to be deeply integrated. However, React Native remains a popular choice for many mobile app development projects due to its efficiency and flexibility.
+
+
+## Relationship between react js and react native? 
+
+React.js (often referred to as React) and React Native are related technologies developed by Facebook, but they serve different purposes within the realm of application development.
+
+1. **React.js (React):**
+   - React is a JavaScript library for building user interfaces, primarily for web applications.
+   - It provides a declarative, component-based architecture, allowing developers to create reusable UI components.
+   - React is used for building interactive and dynamic user interfaces on the web. It efficiently updates and renders components using a virtual DOM to enhance performance.
+
+2. **React Native:**
+   - React Native is a framework that allows developers to build mobile applications using JavaScript and React.
+   - It extends the principles of React to mobile app development, enabling the creation of cross-platform apps for iOS and Android with a single codebase.
+   - React Native uses native components, resulting in performance close to that of natively developed apps, while still allowing for code sharing between platforms.
+
+**Relationship:**
+   - React and React Native share the same core principles and syntax. If you are familiar with React, you can easily transition to React Native.
+   - Components created in React can be reused in React Native applications, and vice versa, to some extent. However, certain components and concepts may be platform-specific.
+   - Both React and React Native are maintained by Facebook and benefit from a strong community, making them popular choices for developers.
+   - React and React Native have similar development patterns, such as the use of JSX, components, and state management.
+
+In summary, React.js is focused on building user interfaces for web applications, while React Native extends these capabilities to mobile app development. The shared concepts and syntax make it easier for developers to work with both technologies, providing a unified development experience across web and mobile platforms.
