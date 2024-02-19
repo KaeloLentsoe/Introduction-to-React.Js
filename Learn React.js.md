@@ -111,3 +111,23 @@ npm start
 Visit `http://localhost:3000` in your browser to see the app in action. You should see a list of items, and clicking the "Add Item" button will add a new item to the list.
 
 Feel free to explore and modify this example to learn more about React's component structure, state management, and how to handle user interactions.
+
+# What is Reactive Native?
+
+React Native is an open-source framework developed by Facebook that allows you to build mobile applications using JavaScript and React. It enables developers to create cross-platform mobile apps with a single codebase, which can run on both iOS and Android devices. React Native leverages the React library, which is commonly used for building user interfaces on the web.
+S
+## Key features of React Native include:
+
+1. **Cross-Platform Development:** Developers can write code once and deploy it on both iOS and Android platforms, saving time and effort.
+
+2. **Native Performance:** React Native apps are not fully web-based; they use native components, resulting in better performance compared to web-based hybrid frameworks.
+
+3. **Hot Reloading:** Developers can see the results of code changes in real-time without recompiling the entire application, speeding up the development process.
+
+4. **Large Ecosystem:** React Native has a vast ecosystem of libraries, plugins, and community support, making it easier for developers to find solutions to common problems.
+
+5. **Reusable Components:** Developers can create reusable UI components, allowing for consistency and efficiency in app development.
+
+6. **JavaScript and React Knowledge:** If you are familiar with JavaScript and React, the learning curve for React Native is relatively smooth.
+
+While React Native provides many advantages, it may not be the best choice for every project. In some cases, native development might be preferred for performance-critical applications or when specific platform features need to be deeply integrated. However, React Native remains a popular choice for many mobile app development projects due to its efficiency and flexibility.
